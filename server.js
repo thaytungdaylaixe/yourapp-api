@@ -21,7 +21,7 @@ import mongoose from "mongoose";
 
 import Root from "./routes/root.js";
 import User from "./routes/userRoutes.js";
-import Register from "./routes/RegisterRoutes.js";
+import Register from "./routes/registerRoutes.js";
 import Note from "./routes/noteRoutes.js";
 // import Dshv from "./routes/dshvRoutes";
 

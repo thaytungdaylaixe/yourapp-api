@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "nodemon server",
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "git": "git add . && git commit -m \"first commit\" && git push origin master"
   },
   "keywords": [],
   "author": "",
