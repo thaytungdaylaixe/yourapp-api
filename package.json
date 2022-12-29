@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon server",
     "dev": "nodemon server",
-    "git": "git add . && git commit -m \"first commit\" && git push origin master"
+    "git": "git add . && git commit -m \"first commit\" && git push -u origin main"
   },
   "keywords": [],
   "author": "",
